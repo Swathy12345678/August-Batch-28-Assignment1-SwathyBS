@@ -1,0 +1,23 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+label
+{
+    display: block;
+}
+body{
+    background-color: cornflowerblue;
+}
+
+
+form{
+    border: 2px solid green;
+    width: 50%;
+    position: absolute;
+    left: 20%;
+    margin-top: 10px;
+}
+
+
